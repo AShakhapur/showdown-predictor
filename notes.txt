@@ -1,0 +1,10 @@
+Bayesian Team Recommendation System:
+
+- Given a set of pokemon the system will return ___ amount of pokemon recommendation, with probabilities assigned
+    to each recommendation. The probabilities will be for how strongly the system recommends the mon.
+
+- Create visualizations on uncertainty and stuff...
+
+- Goal is to condition on known info and then continually update the model through bayesian approaches
+
+- Most likely use high-elo players to generate the model
